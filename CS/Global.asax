@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="SchedulerSimpleCustomFormMvc.MvcApplication" Language="C#" %>

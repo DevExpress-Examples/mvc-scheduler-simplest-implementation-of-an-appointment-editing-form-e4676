@@ -1,0 +1,14 @@
+﻿@model SchedulerDataObject
+
+<script type="text/javascript">
+    function OnAppointmentFormSave(s, e) {
+        if (IsValidAppointment())
+            scheduler.AppointmentFormSave();
+    }
+    function IsValidAppointment() {
+        $.validator.unobtrusive.parse('form');
+        return $("form").valid();
+    }
+</script>
+
+@Html.Partial("SchedulerPartial", Model)
