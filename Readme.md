@@ -3,7 +3,7 @@
 
 * [SchedulerHelper.cs](./CS/Code/SchedulerHelper.cs) (VB: [SchedulerHelper.vb](./VB/Code/SchedulerHelper.vb))
 * [HomeController.cs](./CS/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/Controllers/HomeController.vb))
-* [Global.asax](./CS/Global.asax) (VB: [Global.asax.vb](./VB/Global.asax.vb))
+* [Global.asax](./CS/Global.asax) (VB: [Global.asax](./VB/Global.asax))
 * [Global.asax.cs](./CS/Global.asax.cs) (VB: [Global.asax.vb](./VB/Global.asax.vb))
 * [CustomAppointmentTemplateContainer.cs](./CS/Models/CustomAppointmentTemplateContainer.cs) (VB: [CustomAppointmentTemplateContainer.vb](./VB/Models/CustomAppointmentTemplateContainer.vb))
 * [Scheduling.cs](./CS/Models/Scheduling.cs) (VB: [Scheduling.vb](./VB/Models/Scheduling.vb))
